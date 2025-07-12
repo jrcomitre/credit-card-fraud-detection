@@ -1,4 +1,4 @@
-💳 Credit Card Fraud Detection with Machine Learning <br>
+### Credit Card Fraud Detection with Machine Learning <br>
 This project explores credit card transactions data to develop fraud detection models using data science and machine learning techniques.
 
 📁 About the Dataset
